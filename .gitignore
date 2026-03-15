@@ -1,0 +1,4 @@
+my_config.txt
+secrets.txt
+.streamlit/
+__pycache__/
